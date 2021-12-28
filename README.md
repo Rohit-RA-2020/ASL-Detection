@@ -34,6 +34,6 @@ Althought the app is still in development & testing, we manage to achieve high a
 
 ## Screenshot
 
-<div align="center">
-<img src="https://i.imgur.com/LTicFHK.gif" alt="FlutterMobilenet screenshot" width="300"/>
-</div>
+
+https://user-images.githubusercontent.com/53489549/147544312-f643f08b-85f0-45b8-a8ee-3d9c316fd9db.mp4
+
