@@ -37,3 +37,6 @@ Althought the app is still in development & testing, we manage to achieve high a
 
 https://user-images.githubusercontent.com/53489549/147544312-f643f08b-85f0-45b8-a8ee-3d9c316fd9db.mp4
 
+## APK Link
+Download the release apk from here:- https://github.com/Rohit-RA-2020/ASL-Detection/releases/tag/v1.0.0
+
